@@ -1,10 +1,9 @@
-# 30天掌握AI开发与应用实战
+# 自学30天掌握AI开发
 
-![课程封面](https://placeholder-image.com/ai-course-banner)
 
 ## 📚 课程简介
 
-**"AI助力未来"**是一门为编程基础薄弱但渴望掌握AI技术的学习者量身定制的实战课程。通过30天的系统学习，你将从AI小白成长为能够利用AI工具高效工作、独立开发项目的AI应用专家。
+**自学30天掌握AI开发**是一门专为希望快速入门并掌握AI开发技能的学习者设计的实用课程。通过30天的系统学习，你将从AI小白成长为能够利用AI工具高效工作、独立开发项目的AI应用专家。
 
 无论你是希望提升工作效率的职场人士，还是想探索AI创新应用的创业者，本课程都将为你提供清晰的学习路径和实用的技能培训。从理解大语言模型的基本原理，到熟练使用AI Agent开发应用，我们的课程设计循序渐进，注重实践与应用。
 
@@ -30,7 +29,7 @@ graph TD
     style E fill:#5b9aa0,stroke:#333,stroke-width:2px
     style F fill:#d6e5fa,stroke:#333,stroke-width:2px
     style G fill:#b8a9c9,stroke:#333,stroke-width:2px
-    style H fill:#622569,stroke:#333,stroke-width:2px,color:#fff
+    style H fill:#622569,stroke:#333,stroke-width:2px,color:#fff 
     style I fill:#1a1a1a,stroke:#333,stroke-width:2px,color:#fff
 ```
 
@@ -230,4 +229,8 @@ gantt
 
 ---
 
-*注：本课程内容会根据AI技术的发展定期更新，确保学习内容的前沿性和实用性。* 
+*注：本课程内容会根据AI技术的发展定期更新，确保学习内容的前沿性和实用性。*
+
+## 课程特点
+
+**自学30天掌握AI开发**是一门专为希望快速入门并掌握AI开发技能的学习者设计的实用课程。无论你是完全的编程新手，还是已有一定基础的开发者，本课程都能满足你的学习需求。 
