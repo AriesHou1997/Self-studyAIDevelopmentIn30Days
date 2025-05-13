@@ -1,0 +1,2 @@
+# Self-studyAIDevelopmentIn30Days
+30天掌握AI开发与应用实战
