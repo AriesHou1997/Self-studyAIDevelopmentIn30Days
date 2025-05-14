@@ -283,5 +283,8 @@ graph TD
 
 最重要的是，记住自学是一段个人成长的旅程，允许自己犯错、反思、调整和成长。坚持每天学习，相信在30天后，你将拥有令人惊叹的AI开发能力！ 
 
-**AIGC自学交流群：**
-点击链接加入群聊【Aries - AIGC自学交流群】：https://qm.qq.com/q/q88ZpofKLY
+---
+
+> 点击链接加入群聊【Aries - AIGC自学交流群】：https://qm.qq.com/q/q88ZpofKLY
+
+
